@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"drop-rules","Source":"./modules/drop-rule","Dir":"modules/drop-rule"},{"Key":"entity_tags","Source":"./modules/tags","Dir":"modules/tags"},{"Key":"log-parsing","Source":"./modules/log-parsing","Dir":"modules/log-parsing"},{"Key":"synthetics","Source":"./modules/synthetic-monitoring","Dir":"modules/synthetic-monitoring"}]}
